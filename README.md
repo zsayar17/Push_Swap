@@ -1,6 +1,5 @@
 # Push_Swap
-The purpose of the project is to sort a given set of mixed numbers provided by users using only the stack structure and following specific rules. For this, I implemented the radix sort algorithm. 
-Rules are; 
+This project provides a comprehensive solution for sorting numbers based on specific rules which are implemented at below. It employs two distinct stacks and utilizes both the Wheels and radix sort algorithms. These sorting techniques are applied in conjunction with the linked list data structure to efficiently organize and manage the numeric data. By combining these elements, the project offers a robust approach to sorting numbers while adhering to the prescribed rules.
 
 "rotate a" (Shift up all elements of stack a by 1. The first element becomes the last one), 
 
